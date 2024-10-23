@@ -35,10 +35,3 @@ Home Screen  | Drawer UI | Groups in Drawer
 Add Screen  | Edit Screen | Personal Info Screen
 ------------- | ------------- | -------------
 <a><img src="https://github.com/cengizhanerturan/kotlin_business_card_app/blob/main/app_images/add.png" width="200" height="400" /></a> | <a><img src="https://github.com/cengizhanerturan/kotlin_business_card_app/blob/main/app_images/edit.png" width="200" height="400" /></a> | <a><img src="https://github.com/cengizhanerturan/kotlin_business_card_app/blob/main/app_images/personal_info.png" width="200" height="400" /></a>
-
-
-
-
-
-
-
